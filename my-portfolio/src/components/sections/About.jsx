@@ -65,9 +65,40 @@ export const About = () => {
                         </div>
                     </div>
                 </div>
-            </div>
 
-            
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
+                    <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
+                        <h3 className="text-xl font-bold mb-4"> 📚 Education </h3>
+                        <ul className="list-disc list-inside text-gray-300 space-y-2">
+                            <li>
+                                <strong> Bachelor of Electrical and Electronics Engineering with Honours - Xiamen University Malaysia (2020-2024)</strong>
+                            </li>
+                            <li>
+                                Relevant Coursework: Embedded Systems, C Programming, Digital System Design, DSP and Robotics
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
+                        <h3 className="text-xl font-bold mb-4"> 💼 Work Experience </h3>
+                        <div className="space-y-4 text-gray-300">
+                            <div>
+                                <h4 className="font-semibold"> Trainee Design Verification Engineer at Ulkasemi .Ltd</h4>
+                                <p>Developing test plans and testbench architectures to test different RTL designs using UVM. 
+                                    Designing a testbench design using System Verilog for a simple APB RTL design
+                                </p>
+                            </div>
+
+                            <div>
+                                <h4 className="font-semibold"> Intern at Swift Bridge Technologies Sdn Bhd</h4>
+                                <p>Drafting PIRs (Part Inspection Reports) and FA (First Article) Report.
+                                    High-Frequency Cable Prototype Assembly and Design
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>    
         </section>
     );
 }
