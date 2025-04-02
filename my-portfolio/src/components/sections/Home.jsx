@@ -13,8 +13,7 @@ export const Home = () => {
                 </h1>
 
                 <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
-                Hi there! I'm Golam Rahman a 3rd year at Xiamen University Malaysia studying Electrical and Electronics Engineering. While I did learn a lot of the skills illustrated below at university, some of them were learned purely out of curiosity during my free time and occasional days off, including but not limited to Web Development using HTML, CSS and Javascript as well as PCB Design and projects using the Arduino Uno.
-                Apart from all that I love to go out for runs at least a few times a week unless otherwise I'm out practicing football by myself.
+                Hi there! I'm Golam Rahman a recent Electrical and Electronics Engineering graduate from Xiamen University Malaysia.
                 </p>
                 <div className="flex justify-center space-x-4">
                     <a 
