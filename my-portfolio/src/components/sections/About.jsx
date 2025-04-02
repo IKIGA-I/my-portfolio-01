@@ -27,9 +27,14 @@ export const About = () => {
             
                 <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
                     <p className="text-gray-300 mb-6">
-                        3rd Year @ Xiamen University Malaysia. 
-                        Studying Electrical and Electronics Engineering. 
-                        Web Developer. Electronic Enthusiast
+                        Hi, I’m <b>Golam Rahman</b>, an Electrical and Electronics Engineer with a growing passion for <b>embedded systems and Linux driver development</b>.<br /><br />  
+                        I graduated from <b>Xiamen University Malaysia</b> and have worked with <b>ESP32, Arduino, and Verilog for digital design verification</b>.<br /><br />  
+
+                        I started my career in <b>VLSI design verification</b>, but I’ve realized that I’m more drawn to low-level programming and hardware-software integration.<br />  
+                        Now, I’m focusing on <b>C programming, Linux kernel development, and embedded systems</b> as I prepare for my <b>Master’s in Electrical and Electronics Engineering at the University of Auckland</b>.<br /><br />  
+
+                        I love solving real-world problems with technology, and I’m always looking for ways to build and improve things.<br />  
+                        Whether it’s working on personal projects, participating in hackathons, or just exploring new ideas, I’m always eager to learn and grow.
                     </p>
 
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
