@@ -84,10 +84,17 @@ export const About = () => {
                         <ul className="list-disc list-inside text-gray-300 space-y-2">
                             <li>
                                 <strong> Bachelor of Electrical and Electronics Engineering with Honours - Xiamen University Malaysia (2020-2024)</strong>
+                                <li>
+                                Relevant Coursework: Embedded Systems, C Programming, Digital System Design, DSP and Robotics
+                                </li>
                             </li>
                             <li>
+                                <strong> Master of Engineering Studies (EEE) - University of Auckland (2025-Present)</strong>
+                                <li>
                                 Relevant Coursework: Embedded Systems, C Programming, Digital System Design, DSP and Robotics
+                                </li>
                             </li>
+                            
                         </ul>
                     </div>
 
